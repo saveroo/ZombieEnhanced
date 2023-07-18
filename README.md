@@ -1,8 +1,10 @@
 # [Not Just] Zombie Enhanced - 2.2.0
 
-![Image Description](/LastUpdatedForm.png)
+![Image Description](/primary.png)
+![Image Description](/kravt.png)
+![GUI](/LastUpdatedForm.png)
 
-Nexus Link to this mod: [Not Just Zombie Enhanced - 2.2.0](https://www.nexusmods.com/graveyardkeeper/mods/edit/?id=24&game_id=2696&step=details)
+Nexus Link to this mod: [Not Just Zombie Enhanced - 2.2.0](https://www.nexusmods.com/graveyardkeeper/mods/24)
 
 
 **2.2.0: Zombie's Dialogue**
