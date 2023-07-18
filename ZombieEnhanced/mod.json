@@ -1,0 +1,11 @@
+﻿{
+  "Id":"ZombieEnhancedMod",
+  "DisplayName":"Graveyard Keeper Zombie Enhanced Mod",
+  "Author":"saveroo",
+  "Version":"1.0.0.0",
+  "Requires":[],
+  "Enable":true,
+  "AssemblyName":"ZombieEnhanced.dll",
+  "EntryMethod":"ZombieEnhanced.Entry.Patch",
+  "Config":{}
+}
