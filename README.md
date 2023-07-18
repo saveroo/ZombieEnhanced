@@ -1,15 +1,12 @@
 # [Not Just] Zombie Enhanced - 2.2.0
+**2.2.0: Zombie's Dialogue**
 
+>GUI Configurable Zombie/Worker Walk/Carry Speed, Efficiency, with several extra Features.
+
+Nexus Link to this mod: [Not Just Zombie Enhanced - 2.2.0](https://www.nexusmods.com/graveyardkeeper/mods/24)
 ![Image Description](/primary.png)
 ![Image Description](/kravt.PNG)
 ![GUI](/LastUpdatedForm.png)
-
-Nexus Link to this mod: [Not Just Zombie Enhanced - 2.2.0](https://www.nexusmods.com/graveyardkeeper/mods/24)
-
-
-**2.2.0: Zombie's Dialogue**
-
-GUI Configurable Zombie/Worker Walk/Carry Speed, Efficiency, with several extra Features.
 
 **:: REQUIREMENTS ::**
 
