@@ -1,7 +1,7 @@
 # [Not Just] Zombie Enhanced - 2.2.0
 
 ![Image Description](/primary.png)
-![Image Description](/kravt.png)
+![Image Description](/kravt.PNG)
 ![GUI](/LastUpdatedForm.png)
 
 Nexus Link to this mod: [Not Just Zombie Enhanced - 2.2.0](https://www.nexusmods.com/graveyardkeeper/mods/24)
