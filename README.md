@@ -87,3 +87,9 @@ Do it **before EXTRACTION**in **Autopsy**table**:**
 - For those encounter an error, it need [Harmony 1.2](https://github.com/pardeike/Harmony/releases/tag/v1.2.0.1)
 - Messed up Vine Press Craft Menu, download the HOTFIX 2.0.1.0, Fixed 2.2.0
 - Messed up Zombie farm menu within tier I/II, except 3, fixed 2.2.0
+
+
+# License
+This project is licensed under the Creative Commons Zero v1.0 Universal license (CC0 1.0).
+
+For details, please refer to the [LICENSE](LICENSE) file.
